@@ -1,4 +1,4 @@
-# **Repositorio de Sintaxis y Semántica del Lenguaje | K2051 | 2024** 💻
+# **Sintaxis y Semántica del Lenguaje | K2051 | 2024** 💻
 
 ### _¡Bienvenidos al repositorio de la materia "Sintaxis y Semántica del Lenguaje"! Este repositorio es el lugar central donde encontrarán todos mis trabajos prácticos que realizaré a lo largo del año académico._ 👋🏽
 
