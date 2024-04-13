@@ -1,7 +1,7 @@
 # **Trabajo Práctico N°0 | Primeros pasos en Git, GitHub, Compilador e IDE**
 
 + Alumno: Nicolás Franchini
-+ Fecha de entrega: 21 de marzo del 2024
++ Fecha de entrega: 21 de abril del 2024
 
 ## Acerca de este trabajo práctico 📝
 En el presente trabajo deberemos realizar una serie de actividades que se detallan a continuación:
